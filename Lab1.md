@@ -14,4 +14,13 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHHAtLUHngrPEZTD1/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
 type yes, and now you have logged in. This is what the terminal window should look like:
+
 ![image](terminal.png)
+## Step 3: Trying some codes
+Some codes you can try on the terminal is 
+* `cd ~`
+* `cd`
+*  `ls <directory>
+*  `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
+The last example should output this on the terminal:
+

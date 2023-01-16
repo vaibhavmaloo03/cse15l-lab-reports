@@ -3,9 +3,15 @@ This blog will help you log into a course-specific account on `ieng6`
 ## Step 1: Installing VScode
 Go to the VScode website: https://code.visualstudio.com/. Download the version for macOS.
 This is what a VScode window should look like.
-![image](Screenshot2023-01-15at11.05.26 PM.png)
+![image](vs.png)
+## Step 2: Connecting remotely
+Open a new terminal from VScode's menu bar. Type `ssh cs15lsp23zz@ieng6.ucsd.edu` where the `zz` is your course specific account. 
+This is what you should see:
+
 ```
 The authenticity of host "ieng6.ucsd.edu (128.54.70.227)' can't be establis
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHHAtLUHngrPEZTD1/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])?
 ```
+type yes, and now you have logged in. This is what the terminal window should look like:
+![image](terminal.png)

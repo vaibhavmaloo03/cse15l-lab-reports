@@ -5,7 +5,7 @@ Go to the VScode website: https://code.visualstudio.com/. Download the version f
 This is what a VScode window should look like.
 ![image](vs.png)
 ## Step 2: Connecting remotely
-Open a new terminal from VScode's menu bar. Type `ssh cs15lsp23zz@ieng6.ucsd.edu` where the `zz` is your course specific account. 
+Open a new terminal from VScode's menu bar. Type `ssh cs15lsp23zz@ieng6.ucsd.edu` on the terminal window where the `zz` is your course specific account. 
 This is what you should see:
 
 ```

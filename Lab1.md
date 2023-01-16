@@ -22,6 +22,7 @@ Some codes you can try on the terminal is
 * `cd`
 *  `ls <directory>`
 *  `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
+
 The last example should output this on the terminal:
 
 ![image](try.png)

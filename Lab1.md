@@ -1,7 +1,7 @@
 # Week 1 Lab report
 This blog will help you log into a course-specific account on `ieng6`
 ## Step 1: Installing VScode
-Go to the VScode website: [Link](https://code.visualstudio.com/.) Download the version for macOS.
+Go to the VScode [website](https://code.visualstudio.com/). Download the version for macOS.
 This is what a VScode window should look like.
 ![image](vs.png)
 ## Step 2: Connecting remotely

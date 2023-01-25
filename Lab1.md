@@ -23,7 +23,7 @@ Some codes you can try on the terminal is
 *  `ls <directory>`
 *  `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`
 
-The last example should output this on the terminal:
+The last example wherin `cat` is used. This prints the content of the file. This is how it should look on the terminal:
 
 ![image](try.png)
 

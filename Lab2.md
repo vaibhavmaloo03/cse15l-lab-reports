@@ -1,6 +1,6 @@
-#Week 2 Lab report
+# Week 2 Lab report
 ---
-##Part 1: Creating a Server
+## Part 1: Creating a Server
 The servers objective is to keep track of single string that gets added to by incoming requests.
 The code for the server is as follows:
 ```

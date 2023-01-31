@@ -38,4 +38,5 @@ class StringServer {
 }
 ```
 When run, this code generates a web server like this:
+![image](1.png)
 

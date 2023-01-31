@@ -48,6 +48,9 @@ For example:
 ![image](2.png)
 
 ## Part 2: Bugs from lab 3
+One of the bugs I found in Lab 3 was while testing the `testReverseInPlace()` method of the class `ArrayExamples`.
+
+![image]
 
 ## Part 3: Learnings from Lab 2 and Lab 3
 In the last two lab classes, I learnt how to create a web server and connect it to my website. I learnt how to handle and process urls especially using different queries. I also learnt how to use Junit effectively and find bugs.

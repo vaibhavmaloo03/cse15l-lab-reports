@@ -48,7 +48,7 @@ For example:
 ![image](2.png)
 
 ## Part 2: Bugs from lab 3
-One of the bugs I found in Lab 3 was while testing the `testReverseInPlace()` method of the class `ArrayExamples`.
+One of the bugs I found in Lab 3 was while testing the `testReverseInPlace()` method of the class `ArrayExamples`. The test passed when all elements of the array were the same.
 
 ![image](3.png)
 

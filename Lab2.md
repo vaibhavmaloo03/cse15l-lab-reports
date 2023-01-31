@@ -6,7 +6,6 @@ The code for the server is as follows:
 ```
 import java.io.IOException;
 import java.net.URI;
-
 import org.xml.sax.ErrorHandler;
 import org.xml.sax.ErrorHandler;
 
@@ -38,3 +37,5 @@ class StringServer {
     }
 }
 ```
+When run, this code generates a web server like this:
+

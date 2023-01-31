@@ -38,5 +38,16 @@ class StringServer {
 }
 ```
 When run, this code generates a web server like this:
+
 ![image](1.png)
 
+First, the main method in `StringServer` class is called. Which makes a `Handler` object. For this, the `Handler` class implements the `handleRequest` method which processes the path and query to give results on the screen of a website. If the url doenst have a `/add-message?s=` in it, it is an unfound web page and the server returns a 404 not found error.
+When another "message" is added after the first message, the server puts the message in the next line and keeps track of messages.
+For example:
+
+![image](2.png)
+
+## Part 2: Bugs from lab 3
+
+## Part 3: Learnings from Lab 2 and Lab 3
+In the last two lab classes, I learnt how to create a web server and connect it to my website. I learnt how to handle and process urls especially using different queries. I also learnt how to use Junit effectively and find bugs.
